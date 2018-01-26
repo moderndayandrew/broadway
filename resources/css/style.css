@@ -9,11 +9,20 @@ h1 {
   font-weight: bold;
 }
 
-nav {
+nav a {
   font-size: 18px;
   color: white;
 }
 
+img {
+  display:block;
+}
+
 #header {
-  background-image: url("./resources/images/the-flatiron-building.png")
+  background-image: url("../images/the-flatiron-building.png");
+}
+
+#process h3 {
+  font-size: 23px;
+  
 }
